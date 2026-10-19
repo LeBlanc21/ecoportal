@@ -1,0 +1,1 @@
+{ "name": "@ecoportal/design", "version": "1.0.0", "exports": { "./globals.css": "./globals.css", "./animations.css": "./animations.css" } }

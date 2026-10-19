@@ -1,0 +1,3 @@
+{ "name": "ecoportal", "private": true, "workspaces": ["packages/*", "apps/*"],
+  "scripts": { "dev:website": "npm run dev -w @ecoportal/website", "dev:portal": "npm run dev -w @ecoportal/portal",
+    "build": "npm run build -w @ecoportal/website && npm run build -w @ecoportal/portal" } }
